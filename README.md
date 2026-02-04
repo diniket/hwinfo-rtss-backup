@@ -3,6 +3,18 @@
 ![Windows](https://img.shields.io/badge/platform-Windows-blue)
 ![PowerShell](https://img.shields.io/badge/script-PowerShell-5391FE)
 
+## ⚡ Quick Start
+
+1. Go to **Releases**
+2. Download the latest ZIP file
+3. Extract the folder anywhere
+4. Double-click **backup_overlay.bat**
+5. Choose:
+   - **1** → Create backup ZIP  
+   - **2** → Restore from backup ZIP
+
+Done. Your HWiNFO + RTSS overlay settings are saved or restored in seconds.
+
 # HWiNFO + RTSS Backup/Restore
 
 Script PowerShell + launcher BAT per salvare e ripristinare automaticamente le impostazioni di **HWiNFO** e **RivaTuner Statistics Server (RTSS)**.
@@ -107,4 +119,5 @@ It only saves local files and settings on your PC.
 
 ## 📜 License
 MIT License
+
 
