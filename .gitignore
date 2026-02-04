@@ -1,0 +1,15 @@
+# Backup archives
+*.zip
+
+# Temporary backup/restore folders
+HWiNFO_RTSS_BACKUP_*
+HWiNFO_RTSS_RESTORE_*
+
+# Logs (if ever added)
+*.log
+
+# Windows thumbnail cache
+Thumbs.db
+
+# MacOS junk (just in case)
+.DS_Store
