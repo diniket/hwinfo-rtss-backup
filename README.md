@@ -1,3 +1,8 @@
+![Release](https://img.shields.io/github/v/release/diniket/hwinfo-rtss-backup)
+![License](https://img.shields.io/github/license/diniket/hwinfo-rtss-backup)
+![Windows](https://img.shields.io/badge/platform-Windows-blue)
+![PowerShell](https://img.shields.io/badge/script-PowerShell-5391FE)
+
 # HWiNFO + RTSS Backup/Restore
 
 Script PowerShell + launcher BAT per salvare e ripristinare automaticamente le impostazioni di **HWiNFO** e **RivaTuner Statistics Server (RTSS)**.
@@ -102,3 +107,4 @@ It only saves local files and settings on your PC.
 
 ## 📜 License
 MIT License
+
